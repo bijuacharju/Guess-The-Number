@@ -1,7 +1,7 @@
 /**
  * Guess The Number Game
- * TODO: Get user value from input and save it to variable numberGuess
- * TODO: Generate a random number 1 to 100 and save it to variable correctNumber
+ * DONE: Get user value from input and save it to variable numberGuess
+ * DONE: Generate a random number 1 to 100 and save it to variable correctNumber
  * DONE: Console whether the guess is too high, too low, or is correct inside playGame function
  * DONE: Create a function called displayResult to move the logic for if the guess is too high, too low, or correct
  * DONE: Complete the showYouWon, showNumberAbove, showNumberBelow
